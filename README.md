@@ -54,12 +54,47 @@ Weapons are a subset of items and have specific strengths and weaknesses against
 - Gas spent per wallet address
 - Lords spent per wallet address
 - Highest XP per wallet address
+- Total XP earned by all players
+- Total Lords spent by all players
+- Average XP earned per game
+- Average Lords spent per game
+- Distribution of game lengths (in terms of actions taken)
+- Most common cause of death (beast, trap, etc.)
 
 ### Adventurer Stats
 
 - Correlation between starting stats and total XP (for the run; leaderboard rankings are based on XP accumulated by the adventurer)
 - Basic metrics (mean, median, mode, etc.) across the leaderboard
-- More stats to be added as they are identified
+- Correlation between individual stats (e.g., Strength, Dexterity) and total XP
+- Correlation between starting stats and survival duration
+- Most common stat distribution among top-ranking adventurers
+- Comparison of stat distribution between successful and unsuccessful adventurers
+
+### Items and Weapons
+
+- Most commonly used item types and tiers
+- Correlation between item greatness and total XP earned
+- Most effective weapon types against each beast material
+- Progression of item greatness over time for top-ranking adventurers
+
+### Player Behavior
+
+- Frequency of marketplace visits and purchases
+- Correlation between marketplace activity and total XP earned
+- Most common actions taken by players (explore, fight, flee, etc.)
+- Comparison of player behavior between successful and unsuccessful adventurers
+
+### Temporal Analysis
+
+- Player activity by day of the week and time of day
+- Evolution of game metrics over time (e.g., average XP, average Lords spent)
+- Identification of any seasonal or event-related trends in player activity
+
+### Leaderboard Analysis
+
+- Characteristics of top-ranking adventurers (stats, items, behavior)
+- Churn rate among leaderboard positions
+- Identification of any "breakout" adventurers who rapidly climb the rankings
 
 ### Beast Stats
 
