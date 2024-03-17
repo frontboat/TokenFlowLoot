@@ -4,7 +4,7 @@ TLDR go here: <https://survivor-docs.realms.world/>
 
 ## Realms Ecosystem Overview
 
-The Realms ecosystem consists of the following components:
+The Realms ecosystem consists but is not limited to the following components:
 
 1. **Realms (L1)**: A collection of tokenized land grids, primarily used in the game Eternum. Realms were minted on L1 but will be deployed on Starknet in the future.
 2. **Starknet Realms World**: The ecosystem on Starknet, including the Autonomous World and Bibliotheca DAO etc etc. Bibliotheca DAO governs the actions and roadmaps in this project.
@@ -99,6 +99,9 @@ Weapons are a subset of items and have specific strengths and weaknesses against
 ### Beast Stats
 
 - [Example dashboard](https://dune.com/frontboat/loot-survivor)
+- separate chart would be one that shows the total number of times each beast has appeared. Perhaps the "Blood Shadow" Dragon has appeared several times already but no one has managed to defeat it yet
+- add a column to the all beasts slain which shows the number of times each beast has slain an adventurer.
+- possibly include a count of how many times a wallet address has been slain by a given beast
 
 ### Clients
 
