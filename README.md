@@ -7,7 +7,7 @@ TLDR go here: <https://survivor-docs.realms.world/>
 The Realms ecosystem consists of the following components:
 
 1. **Realms (L1)**: A collection of tokenized land grids, primarily used in the game Eternum. Realms were minted on L1 but will be deployed on Starknet in the future.
-2. **Starknet Realms World**: The ecosystem on Starknet, including the Autonomous World and Bibliotheca DAO World. Bibliotheca DAO governs the actions and roadmaps in this project.
+2. **Starknet Realms World**: The ecosystem on Starknet, including the Autonomous World and Bibliotheca DAO etc etc. Bibliotheca DAO governs the actions and roadmaps in this project.
 3. **$LORDS**: The asset used across the entire ecosystem, including games like Eternum and Loot Survivor.
 4. **Loot Survivor**: An Adventure Quest type of game built on Starknet, using $LORDS as arcade tokens to play.
 
