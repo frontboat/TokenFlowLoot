@@ -232,7 +232,7 @@ function getType(id) {
   try {
     const provider = new RpcProvider({
       nodeUrl:
-        "https://starknet-mainnet.g.alchemy.com/v2/ekJheYMyUgzO8bxrMq0e6PCgir5WuJqK",
+        "https://starknet-mainnet.g.alchemy.com/v2/ALCHEMYKEYGOESHERE",
     });
 
     const testAddress =
